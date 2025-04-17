@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elmou\\Desktop\\Session_5\\POC\\laboFinal\\labo4\\GUI_CS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2B2B98-C4C4-4C5A-B254-A32A54681140}|lab4Poc.csproj|c:\\users\\elmou\\desktop\\session_5\\poc\\labofinal\\labo4\\gui_cs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2B2B98-C4C4-4C5A-B254-A32A54681140}|lab4Poc.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2B2B98-C4C4-4C5A-B254-A32A54681140}|lab4Poc.csproj|C:\\Users\\elmou\\Desktop\\Session_5\\POC\\laboFinal\\labo4\\GUI_CS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE2B2B98-C4C4-4C5A-B254-A32A54681140}|lab4Poc.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2B2B98-C4C4-4C5A-B254-A32A54681140}|lab4Poc.csproj|C:\\Users\\elmou\\Desktop\\Session_5\\POC\\laboFinal\\labo4\\GUI_CS\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2B2B98-C4C4-4C5A-B254-A32A54681140}|lab4Poc.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 381,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elmou\\Desktop\\Session_5\\POC\\laboFinal\\labo4\\GUI_CS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\elmou\\Desktop\\Session_5\\POC\\laboFinal\\labo4\\GUI_CS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAMwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:16:10.376Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\elmou\\Desktop\\Session_5\\POC\\laboFinal\\labo4\\GUI_CS\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\elmou\\Desktop\\Session_5\\POC\\laboFinal\\labo4\\GUI_CS\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAvwJ8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:29:07.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\elmou\\Desktop\\Session_5\\POC\\laboFinal\\labo4\\GUI_CS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\elmou\\Desktop\\Session_5\\POC\\laboFinal\\labo4\\lab4Poc\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\lab4Poc\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:15:33.751Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
